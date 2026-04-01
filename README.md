@@ -6,10 +6,12 @@
 <p align="center">
   <a href="http://arxiv.org/abs/2603.27365"><img src="https://img.shields.io/badge/arXiv-Tech%20Report-b31b1b?logo=arxiv&logoColor=white" alt="Tech Report" /></a>&nbsp;&nbsp;
   <a href="https://huggingface.co/blog/tiiuae/falcon-perception"><img src="https://img.shields.io/badge/Blogpost-2196F3?logo=googledocs&logoColor=white" alt="Blogpost" /></a>&nbsp;&nbsp;
-  <a href="https://huggingface.co/tiiuae/Falcon-Perception"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Perception%20Model-orange" alt="Perception Model" /></a>&nbsp;&nbsp;
+  <a href="https://vision.falcon.aidrc.tii.ae"><img src="https://img.shields.io/badge/%F0%9F%9A%80-Playground-blue" alt="Playground" /></a>
+</p>
+<p align="center">
   <a href="https://huggingface.co/datasets/tiiuae/PBench"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-PBench-orange" alt="PBench" /></a>&nbsp;&nbsp;
   <a href="https://huggingface.co/tiiuae/Falcon-OCR"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-OCR%20Model-orange" alt="OCR Model" /></a>&nbsp;&nbsp;
-  <a href="https://vision.falcon.aidrc.tii.ae"><img src="https://img.shields.io/badge/%F0%9F%9A%80-Playground-blue" alt="Playground" /></a>
+  <a href="https://huggingface.co/tiiuae/Falcon-Perception"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Perception%20Model-orange" alt="Perception Model" /></a>
 </p>
 
 # Falcon Perception
